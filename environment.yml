@@ -1,4 +1,4 @@
-name: book
+name: env_hugface
 channels:
   - pytorch
   - defaults

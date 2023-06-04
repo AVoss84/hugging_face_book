@@ -1,0 +1,6 @@
+{
+    "python.defaultInterpreterPath": "/home/alexv84/anaconda3/envs/env_hugface/bin/python",  
+    //"python.defaultInterpreterPath": "/Users/mn9lu5b/miniforge3/envs/env_hugface/bin/python",  
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
+  }
